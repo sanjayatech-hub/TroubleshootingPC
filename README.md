@@ -1,11 +1,7 @@
-<h1>Gorkhali FC - Sport Website</h1>
-
-- Progress: 30%
-- My Goal Is To Complete It By End Of This Month
+<h1>Common Software Troubleshooting Steps </h1>
 
 <h2>Description</h2>
-Working on a website project for a soccer team using WordPress, custom HTML, CSS, and plugins to create a dynamic and user-friendly platform for managing team information, events, and contact forms.
-<br />
+A detailed guide covering common software troubleshooting steps for Windows systems. It includes solutions for operating system performance issues, driver conflicts, application errors, and startup problems. The guide provides step-by-step instructions for using built-in tools like Windows Update, Device Manager, and System File Checker (SFC) to diagnose and resolve software-related issues effectively.
 <h2>Languages and Utilities Used</h2>
 
 - HTMLS, CSS, JavaScript
