@@ -31,24 +31,38 @@ A detailed guide covering common software troubleshooting steps for Windows syst
   Check for system updates <br/>
   Settings > Update & Security > Windows Update > Check for updates
 
-<img src="https://i.imgur.com/6Pxz0wD.png" height="80%" width="80%" alt="jj"/>
-<img src="https://i.imgur.com/BSBQJ15.png" height="80%" width="80%" alt="jj"/>
+<img src="https://i.imgur.com/hjrDDXI.png" height="80%" width="80%" alt="jj"/>
 <br/>
-
-
 </p>
 
 <p align="center"> 
-  Website Sample <br/>
+  Run Disk Cleanup <br/>
+  Open Disk Cleanup > Select Files to Delete > Clean Up System Files (Optional) > OK > Delete Files
 
-<img src="https://i.imgur.com/F7NKC7m.png" height="80%" width="80%" alt="jj"/>
-<img src="https://i.imgur.com/J5PdX72.png" height="80%" width="80%" alt="jj"/>
-<img src="https://i.imgur.com/okE9mrg.png" height="80%" width="80%" alt="jj"/>
-<img src="https://i.imgur.com/mfidPzn.png" height="80%" width="80%" alt="jj"/>
+<img src="https://i.imgur.com/xBz55BQ.png" height="80%" width="80%" alt="jj"/>
+
 <br/>
-
-
 </p>
+
+<p align="center"> 
+  End Unnecessary Tasks in Task Manager <br/>
+  Open Task Manager > Process Tab > End High-Usage Tasks (Carefully) or Tasks That You Are Not Using
+  !!Some tasks are necessary for the systems to run!!
+
+<img src="https://i.imgur.com/afAr2aa.png" height="80%" width="80%" alt="jj"/>
+
+<br/>
+</p>
+
+<p align="center"> 
+  Scan for Malware with Windows Defender <br/>
+  Open Windows Security > Virus & Threat Protection > Scan Options > Run a Quick or Full Scan
+
+<img src="https://i.imgur.com/wspD6tk.png" height="80%" width="80%" alt="jj"/>
+
+<br/>
+</p>
+
 
 <!--
  ```diff
