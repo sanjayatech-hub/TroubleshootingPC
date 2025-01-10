@@ -55,7 +55,7 @@ A detailed guide covering common software troubleshooting steps for Windows syst
 </p>
 
 <p align="center"> 
-  Scan for Malware with Windows Defender <br/>
+  Scan for Malware with Windows Defender or Antivirus Software<br/>
   Open Windows Security > Virus & Threat Protection > Scan Options > Run a Quick or Full Scan
 
 <img src="https://i.imgur.com/wspD6tk.png" height="80%" width="80%" alt="jj"/>
@@ -63,6 +63,20 @@ A detailed guide covering common software troubleshooting steps for Windows syst
 <br/>
 </p>
 
+- Blue Screen of Death(BSOD) 
+
+<p align="center"> 
+  Note the error code <br/>
+
+<img src="https://i.imgur.com/YSG8RSb.png" height="80%" width="80%" alt="jj"/>
+<br/>
+</p>
+<p align="center"> 
+  Enter Safe Mode >  <br/>
+
+<img src="https://i.imgur.com/YSG8RSb.png" height="80%" width="80%" alt="jj"/>
+<br/>
+</p>
 
 <!--
  ```diff
