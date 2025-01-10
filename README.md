@@ -67,12 +67,14 @@ A detailed guide covering common software troubleshooting steps for Windows syst
 
 <p align="center"> 
   Note the error code <br/>
+  (Do online research to find out more about it)
 
 <img src="https://i.imgur.com/Z9uApf2.png" height="80%" width="80%" alt="jj"/>
 <br/>
 </p>
 <p align="center"> 
-  Enter Safe Mode >  <br/>
+  Enter Safe Mode <br/>
+  Shift+Restart > 
 
 <img src="https://i.imgur.com/YSG8RSb.png" height="80%" width="80%" alt="jj"/>
 <br/>
