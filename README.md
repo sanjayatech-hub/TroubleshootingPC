@@ -14,7 +14,7 @@ A detailed guide covering common software troubleshooting steps for Windows syst
 
 <h2>Environments Used </h2>
 
-- Windows 11 
+- Windows 10
 
 <h2>1) Operating System Issues</h2>
 
