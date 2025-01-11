@@ -33,53 +33,64 @@ A detailed guide covering common software troubleshooting steps for Windows syst
 
 <img src="https://i.imgur.com/hjrDDXI.png" height="80%" width="80%" alt="jj"/>
 <br/>
-</p>
-
+<br/>
 <p align="center"> 
   Run Disk Cleanup <br/>
   Open Disk Cleanup > Select Files to Delete > Clean Up System Files (Optional) > OK > Delete Files
-
 <img src="https://i.imgur.com/xBz55BQ.png" height="80%" width="80%" alt="jj"/>
-
 <br/>
-</p>
-
+<br/>  
 <p align="center"> 
   End Unnecessary Tasks in Task Manager <br/>
   Open Task Manager > Process Tab > End High-Usage Tasks (Carefully) or Tasks That You Are Not Using
-  !!Some tasks are necessary for the systems to run!!
-
 <img src="https://i.imgur.com/afAr2aa.png" height="80%" width="80%" alt="jj"/>
-
 <br/>
-</p>
-
+<br/>
 <p align="center"> 
   Scan for Malware with Windows Defender or Antivirus Software<br/>
   Open Windows Security > Virus & Threat Protection > Scan Options > Run a Quick or Full Scan
-
 <img src="https://i.imgur.com/wspD6tk.png" height="80%" width="80%" alt="jj"/>
-
 <br/>
-</p>
-
+<br/>
+  
 - Blue Screen of Death(BSOD) 
 
 <p align="center"> 
   Note the error code <br/>
   (Do online research to find out more about it)
 
-<img src="https://i.imgur.com/Z9uApf2.png" height="80%" width="80%" alt="jj"/>
+<img src="https://i.imgur.com/Z9uApf2.png" height="80%" width="80%" alt="BSOD"/>
+<br/>
+<p align="center"> 
+  Enter Advanced Startup: Do Startup Repair First <br/>
+  Shit+Restart > Troubleshoot > Advanced Options > Startup Repair 
+
+<img src="https://i.imgur.com/pbimleT.png" height="80%" width="80%" alt="jj"/>
+<br/>
+<p align="center"> 
+  Use Command Prompt <br/>
+  Troubleshoot > Advanced Options > Command Prompt
+ <br align="center">
+
+ <br/>
+ 
+  <img src="https://i.imgur.com/hmpBzV7.png" height="60%" width="80%" alt="jj"/>
+  
 <br/>
 </p>
 <p align="center"> 
-  Enter Safe Mode <br/>
-  Shift+Restart > 
+  Execute Commands in CMD <br/>
+Close The Prompt After You Done > Then Continue
+ <br align="center">
 
-<img src="https://i.imgur.com/YSG8RSb.png" height="80%" width="80%" alt="jj"/>
+ <br/>
+ 
+  <img src="https://i.imgur.com/4s42DOu.png" height="60%" width="80%" alt="jj"/>
+  <img src="https://i.imgur.com/fJgnUns.png" height="60%" width="80%" alt="jj"/>
+  
+  
 <br/>
 </p>
-
 <!--
  ```diff
 - text in red
