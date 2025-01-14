@@ -93,8 +93,11 @@ Close The Prompt After You Done > Then Continue
   
 <br/>
 <br/>
+<h2>2) Driver Issues</h2>
 
-- System won't boot
+- Audio not working
+- Device not recognized
+
   
 </p>
 <!--
