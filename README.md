@@ -85,8 +85,10 @@ Close The Prompt After You Done > Then Continue
 
  <br/>
  
-  <img src="https://i.imgur.com/4s42DOu.png" height="60%" width="80%" alt="jj"/>
-  <img src="https://i.imgur.com/fJgnUns.png" height="60%" width="80%" alt="jj"/>
+  <img src="https://i.imgur.com/0Zvage4.jpeg" height="60%" width="80%" alt="jj"/>
+  <img src="https://i.imgur.com/IfwG5Df.jpeg" height="60%" width="80%" alt="jj"/>
+  <img src="https://i.imgur.com/U3r0Y09.jpeg" height="60%" width="80%" alt="jj"/>
+  
   
   
 <br/>
