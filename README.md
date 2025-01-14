@@ -42,7 +42,7 @@ A detailed guide covering common software troubleshooting steps for Windows syst
 <br/>  
 <p align="center"> 
   End Unnecessary Tasks in Task Manager <br/>
-  Open Task Manager > Process Tab > End High-Usage Tasks (Carefully) or Tasks That You Are Not Using
+  Open Task Manager > Process Tab > End High-Usage Tasks (Carefully) or Unused tasks
 <img src="https://i.imgur.com/afAr2aa.png" height="80%" width="80%" alt="jj"/>
 <br/>
 <br/>
