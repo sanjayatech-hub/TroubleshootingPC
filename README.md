@@ -122,14 +122,67 @@ Close The Prompt After You Done > Then Continue
   
 <br/>
 <p align="center"> 
-  Update or Reinstall Drivers <br/>
-  Device Manager > Audio or Device > Update Driver or Roll Back To Previous Driver
+  Run Troubleshoot: <br/>
+  Open Troubleshoot Setting
  <br align="center">
 
  <br/>
  
-  <img src="https://i.imgur.com/7wftLHD.jpeg" height="60%" width="80%" alt="jj"/>
+  <img src="https://i.imgur.com/BqAS2GD.jpeg" height="60%" width="80%" alt="jj"/>
+  <br/>
+<p align="center"> 
+  Troubleshoot Setting > Additional Troubleshooters <br/>
+  
+ <br align="center">
 
+ <br/>
+ 
+  <img src="https://i.imgur.com/l7622Am.jpeg" height="60%" width="80%" alt="jj"/>
+  <br/>
+<p align="center"> 
+  Troubleshoot Setting > Additional Troubleshooters > Run The Troubleshooter > Fix it >  <br/>
+  
+ <br align="center">
+
+ <br/>
+ 
+  <img src="https://i.imgur.com/MzjMOC4.jpeg" height="60%" width="80%" alt="jj"/>
+  <br/>
+<p align="center"> 
+  Reset Apps:  <br/>
+  Apps & Features > Click on the app > Advanced Options > Reset
+  
+ <br align="center">
+
+ <br/>
+  <img src="https://i.imgur.com/E7kzQNB.jpeg" height="60%" width="80%" alt="jj"/>
+  <br/>
+<p align="center"> 
+  Run PowerShell Commands:  <br/>
+  Windows Powershell (Run it as administrator) > Execute Command > Restart device after it's completed!
+  
+ <br align="center">
+COMMAND: Get-AppxPackage -AllUsers| Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
+ <br/>
+  <img src="https://i.imgur.com/SZ5Gxq6.jpeg" height="60%" width="80%" alt="jj"/>
+   <br/>
+<p align="center"> 
+  Run DISM Tools:  <br/>
+  CMD Prompt (Run it as administrator) > Execute All Commands > Close > Restart Device
+  
+ <br align="center">
+
+ <br/>
+  <img src="https://i.imgur.com/uTyY2gp.jpeg" height="60%" width="80%" alt="jj"/>
+  <br/>
+<p align="center"> 
+  Run SFC:  <br/>
+  CMD Prompt (Run it as administrator) > Execute Command > Close > Restart Device
+  
+ <br align="center">
+
+ <br/>
+  <img src="https://i.imgur.com/CAAsULU.jpeg" height="60%" width="80%" alt="jj"/>
   
 </p>
 <!--
