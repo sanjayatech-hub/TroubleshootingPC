@@ -110,6 +110,25 @@ Close The Prompt After You Done > Then Continue
  <br/>
  
   <img src="https://i.imgur.com/7wftLHD.jpeg" height="60%" width="80%" alt="jj"/>
+  </br>
+  <br/>
+<h2>3) Application Software Issues</h2>
+
+- Application won't open
+- Crashes frequently
+<h2>Troubleshoot walk-through:</h2>
+
+- Audio not working
+- Device not recognized
+<br/>
+<p align="center"> 
+  Update or Reinstall Drivers <br/>
+  Device Manager > Audio or Device > Update Driver or Roll Back To Previous Driver
+ <br align="center">
+
+ <br/>
+ 
+  <img src="https://i.imgur.com/7wftLHD.jpeg" height="60%" width="80%" alt="jj"/>
 
   
 </p>
