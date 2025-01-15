@@ -183,7 +183,20 @@ COMMAND: Get-AppxPackage -AllUsers| Foreach {Add-AppxPackage -DisableDevelopment
 
  <br/>
   <img src="https://i.imgur.com/CAAsULU.jpeg" height="60%" width="80%" alt="jj"/>
+  <br/>
+<p align="center"> 
+  Update Your Windows System!  <br/>
+  Keep Your System Up To Date!
   
+ <br align="center">
+
+ <br/>
+  <img src="https://i.imgur.com/QfvmMb4.jpeg" height="60%" width="80%" alt="jj"/>
+  </br>
+
+  - Crashes frequently
+
+    
 </p>
 <!--
  ```diff
