@@ -1,5 +1,6 @@
 <h1>Common Software Troubleshooting Steps </h1>
 
+- Full troubleshoot details will be uploaded on a note later on...
 <h2>Description</h2>
 A detailed guide covering common software troubleshooting steps for Windows systems. It includes solutions for operating system performance issues, driver conflicts, application errors, and startup problems. The guide provides step-by-step instructions for using built-in tools like Windows Update, Device Manager, and System File Checker (SFC) to diagnose and resolve software-related issues effectively.
 <h2>Languages and Utilities Used</h2>
@@ -117,8 +118,8 @@ Close The Prompt After You Done > Then Continue
 - Crashes frequently
 <h2>Troubleshoot walk-through:</h2>
 
-- Audio not working
-- Device not recognized
+- Application won't open
+  
 <br/>
 <p align="center"> 
   Update or Reinstall Drivers <br/>
