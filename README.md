@@ -20,7 +20,6 @@ A detailed guide covering common software troubleshooting steps for Windows syst
 
 - Slow performance or freezing
 - Blue Screen of Death(BSOD)
-- System won't boot
   
 <h2>Troubleshoot walk-through:</h2>
 
